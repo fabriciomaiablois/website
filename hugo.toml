@@ -1,0 +1,13 @@
+baseURL = 'https://fabriciomaiablois.com/'
+languageCode = 'en-us'
+title = 'My Personal Website'
+theme = 'fmb'
+published = true
+
+[params]
+sitedescription = 'My Personal Website'
+user = "fmb"
+  [params.author]
+    name = "Fabricio Maia Blois"
+    email = "fabriciomaiablois@protonmail.com"
+    description = "//TODO: Finish the website"
