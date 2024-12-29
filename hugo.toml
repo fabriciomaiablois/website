@@ -2,7 +2,6 @@ baseURL = 'https://fabriciomaiablois.com/'
 languageCode = 'en-us'
 title = 'My Personal Website'
 theme = 'fmb'
-published = true
 
 [params]
 sitedescription = 'My Personal Website'
